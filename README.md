@@ -35,12 +35,6 @@ Cocok untuk development PHP native, Laravel, CodeIgniter, dan project web berbas
 
 ---
 
-# Download
-
-Download versi stable terbaru melalui halaman **GitHub Releases**:
-
-[![Download](https://img.shields.io/badge/⬇️_Download-ObbyStack-blueviolet?style=for-the-badge)](https://github.com/Alfarobby27/ObbyStack/releases/tag/ObbyStack)
-
 # Persyaratan Sistem
 
 Sebelum memulai, pastikan komputer Anda memenuhi syarat berikut:
