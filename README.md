@@ -1,8 +1,7 @@
-````md
 # ObbyStack
 
 ![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
-![Apache](https://img.shields.io/badge/Server-Apache-D22128?style=for-the-badge&logo=apache)
+![Apache](https://img.shields.io/badge/Server-Apache-D22128?style=for-the-badge&logo=apacheapache)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PHP](https://img.shields.io/badge/Language-PHP-777BB4?style=for-the-badge&logo=php)
 
@@ -427,4 +426,3 @@ ObbyStack is distributed under the ObbyStack Custom License v1.0.
 - Free to use
 - Free to distribute (original version only)
 - Modification is prohibited without permission
-````
