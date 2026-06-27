@@ -1,5 +1,9 @@
 # ObbyStack
 
+<p align="center">
+  <img src="banner.png" alt="ObbyStack Banner" width="100%">
+</p>
+
 ![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
 ![Apache](https://img.shields.io/badge/Server-Apache-D22128?style=for-the-badge&logo=apacheapache)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql)
