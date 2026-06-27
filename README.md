@@ -61,11 +61,7 @@ Download file:
 
 [![Download](https://img.shields.io/badge/⬇️_Download-ObbyStack-blueviolet?style=for-the-badge)](https://github.com/Alfarobby27/ObbyStack/releases/tag/ObbyStack)
 
-Setelah download selesai, extract ZIP ke:
-
-```bat
-C:\ObbyStack
-```
+Setelah download selesai, extract ZIP ke dalam local disk C:\ anda:
 
 Struktur folder setelah extract:
 
@@ -84,7 +80,7 @@ C:\ObbyStack
 
 ## 2. Buat Folder Data MySQL
 
-Buat folder berikut:
+Buka CMD sebagai Administrator lalu jalankan:
 
 ```bat
 mkdir C:\ObbyStack\mysql\data
@@ -336,66 +332,6 @@ Akses:
 
 ```text
 http://localhost/project-saya
-```
-
----
-
-# Troubleshooting
-
-## Apache atau MySQL gagal start
-
-Cek:
-
-- Jalankan sebagai Administrator
-- Port tidak bentrok
-- File config tidak rusak
-- Folder MySQL data sudah ada
-
----
-
-## MySQL gagal start
-
-Pastikan folder:
-
-```text
-C:\ObbyStack\mysql\data
-```
-
-sudah dibuat dan diinisialisasi.
-
-Jika belum:
-
-```bat
-cd C:\ObbyStack\mysql\bin
-mysqld --initialize-insecure --datadir=C:\ObbyStack\mysql\data
-```
-
----
-
-## MySQL CLI tidak bisa dibuka
-
-Pastikan:
-
-- MySQL service RUNNING
-- File ada:
-
-```text
-mysql\bin\mysql.exe
-```
-
----
-
-## Localhost tidak bisa dibuka
-
-Pastikan:
-
-- Apache running
-- Service ObbyApache aktif
-
-Coba buka manual:
-
-```text
-http://localhost
 ```
 
 ---
