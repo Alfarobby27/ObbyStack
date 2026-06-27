@@ -32,6 +32,16 @@ Cocok untuk development PHP native, Laravel, CodeIgniter, dan project web berbas
 
 ---
 
+# Download
+
+Download versi stable terbaru melalui halaman **GitHub Releases**:
+
+```text
+ObbyStack v1.0.0 Stable.zip
+```
+
+---
+
 # Persyaratan Sistem
 
 Sebelum memulai, pastikan komputer Anda memenuhi syarat berikut:
@@ -39,12 +49,12 @@ Sebelum memulai, pastikan komputer Anda memenuhi syarat berikut:
 - Windows 10 / Windows 11 (64-bit)
 - Memiliki akses Administrator
 - Tidak menggunakan local development lain (XAMPP, Laragon, WAMP, dll)
-- Disarankan install di:
+
+Disarankan install di:
 
 ```bat
 C:\ObbyStack
 ```
-````
 
 > Jalankan `obby.bat` menggunakan **Run as Administrator**
 
@@ -81,6 +91,8 @@ C:\ObbyStack
 └── obby.bat
 ```
 
+---
+
 ## 2. Buat Folder Data MySQL
 
 Buat folder berikut:
@@ -110,11 +122,8 @@ mysqld --initialize-insecure --datadir=C:\ObbyStack\mysql\data
 
 Penjelasan:
 
-- `--initialize-insecure`
-  → root tanpa password
-
-- `--datadir`
-  → lokasi folder data MySQL
+- `--initialize-insecure` → root tanpa password
+- `--datadir` → lokasi folder data MySQL
 
 Jika berhasil, folder `data` akan otomatis terisi.
 
@@ -187,8 +196,6 @@ Setelah setup selesai, panel utama:
 
 Menjalankan Apache + MySQL.
 
-Pilih:
-
 ```text
 [1] Start Stack
 ```
@@ -199,8 +206,6 @@ Pilih:
 
 Menghentikan Apache + MySQL.
 
-Pilih:
-
 ```text
 [2] Stop Stack
 ```
@@ -210,8 +215,6 @@ Pilih:
 ## Restart Stack
 
 Restart Apache + MySQL.
-
-Pilih:
 
 ```text
 [3] Restart Stack
@@ -227,8 +230,6 @@ Membuka browser ke:
 http://localhost
 ```
 
-Pilih:
-
 ```text
 [4] Open Localhost
 ```
@@ -238,8 +239,6 @@ Pilih:
 ## Open WWW Folder
 
 Membuka folder project web.
-
-Pilih:
 
 ```text
 [5] Open WWW Folder
@@ -257,8 +256,6 @@ C:\ObbyStack\www
 
 Menjalankan HeidiSQL.
 
-Pilih:
-
 ```text
 [6] Open HeidiSQL
 ```
@@ -272,8 +269,6 @@ Membuka terminal MySQL:
 ```sql
 mysql -u root
 ```
-
-Pilih:
 
 ```text
 [7] Open MySQL CLI
@@ -302,8 +297,6 @@ Menghapus service:
 - ObbyApache
 - ObbyMySQL
 
-Pilih:
-
 ```text
 [8] Remove Services
 ```
@@ -322,7 +315,8 @@ ObbyStack/
 ├── php/
 ├── www/
 ├── obby.bat
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 ---
@@ -419,26 +413,18 @@ http://localhost
 
 # Catatan Penting
 
-- Disarankan install di:
-
-```text
-C:\ObbyStack
-```
-
+- Disarankan install di `C:\ObbyStack`
 - Jalankan sebagai Administrator
 - Root MySQL default tanpa password
 - Gunakan hanya untuk development lokal
 
 ---
 
-```
-## License
+# License
 
 ObbyStack is distributed under the ObbyStack Custom License v1.0.
 
 - Free to use
 - Free to distribute (original version only)
 - Modification is prohibited without permission
-```
-
-```
+````
