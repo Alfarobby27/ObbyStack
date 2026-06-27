@@ -4,6 +4,11 @@
   <img src="banner.png" alt="ObbyStack Banner" width="100%">
 </p>
 
+![Stars](https://img.shields.io/github/stars/Alfarobby27/ObbyStack?style=for-the-badge&label=Stars)
+![Forks](https://img.shields.io/github/forks/Alfarobby27/ObbyStack?style=for-the-badge&label=Forks)
+![Issues](https://img.shields.io/github/issues/Alfarobby27/ObbyStack?style=for-the-badge&label=Issues)
+![Views](https://komarev.com/ghpvc/?username=Alfarobby27&repo=ObbyStack&style=for-the-badge&label=Views)
+
 ![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
 ![Apache](https://img.shields.io/badge/Server-Apache-D22128?style=for-the-badge&logo=apacheapache)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql)
