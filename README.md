@@ -39,11 +39,7 @@ Cocok untuk development PHP native, Laravel, CodeIgniter, dan project web berbas
 
 Download versi stable terbaru melalui halaman **GitHub Releases**:
 
-```text
-ObbyStack v1.0.0 Stable.zip
-```
-
----
+[![Download](https://img.shields.io/badge/⬇️_Download-ObbyStack-blueviolet?style=for-the-badge)](https://github.com/Alfarobby27/ObbyStack/releases/tag/ObbyStack)
 
 # Persyaratan Sistem
 
@@ -69,11 +65,7 @@ C:\ObbyStack
 
 Download file:
 
-```text
-ObbyStack v1.0.0 Stable.zip
-```
-
-melalui halaman **GitHub Releases**.
+[![Download](https://img.shields.io/badge/⬇️_Download-ObbyStack-blueviolet?style=for-the-badge)](https://github.com/Alfarobby27/ObbyStack/releases/tag/ObbyStack)
 
 Setelah download selesai, extract ZIP ke:
 
