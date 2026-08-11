@@ -64,7 +64,7 @@ C:\ObbyStack
 
 Download file:
 
-[![Download](https://img.shields.io/badge/⬇️_Download-ObbyStack-blueviolet?style=for-the-badge)](https://github.com/Alfarobby27/ObbyStack/releases/tag/ObbyStack)
+[![Download](https://img.shields.io/badge/⬇️_Download-ObbyStack-blueviolet?style=for-the-badge)](https://github.com/Alfarobby27/ObbyStack/releases/tag/obbyStack)
 
 Setelah download selesai, extract ZIP ke dalam local disk C:\ anda:
 
